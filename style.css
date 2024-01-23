@@ -84,7 +84,7 @@ main {
 }
 
 .img-separator {
-    background: url("images/pattern-divider-desktop.svg") no-repeat;
+    background: url("./images/pattern-divider-desktop.svg") no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -109,7 +109,7 @@ footer > a {
         padding: 2rem 2rem 0 2rem;
     }
     .img-separator {
-        background: url("images/pattern-divider-mobile.svg") no-repeat;
+        background: url("./images/pattern-divider-mobile.svg") no-repeat;
         background-position: center;
     }
 }
